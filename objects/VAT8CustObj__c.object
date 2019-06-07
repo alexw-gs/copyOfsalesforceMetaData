@@ -53,6 +53,7 @@
         <fullName>SomeText__c</fullName>
         <externalId>false</externalId>
         <label>SomeText</label>
+        <businessOwnerUser>0123456789ABCDEFGH</businessOwnerUser>
         <length>23</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
